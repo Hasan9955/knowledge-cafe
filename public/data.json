@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "title": "The Enigmatic Cosmos",
+        "cover_img": "https://i.ibb.co/qmJxtq5/IMG-20230201-WA0013.jpg",
+        "author": "Astronomy Explorer",
+        "posted_date": "2023-09-15",
+        "author_img": "https://i.ibb.co/FxbJFg1/Ellipse-1.png",
+        "reading_time": 10,
+        "hashtag": "#Astronomy #Science"
+      },
+      {
+        "id": 2,
+        "title": "Mysteries of the Deep Ocean",
+        "cover_img": "https://i.ibb.co/Jr3gX37/337152878-181214394670980-7645946966173657892-n.jpg",
+        "author": "Oceanographer X",
+        "posted_date": "2023-09-14",
+        "author_img": "https://i.ibb.co/kDytKCM/Ellipse-1-3.png",
+        "reading_time": 8,
+        "hashtag": "#Oceanography #MarineLife"
+      },
+      {
+        "id": 3,
+        "title": "The Art of Fiction Writing",
+        "cover_img": "https://i.ibb.co/RpMbHyH/Rectangle-1-2.png",
+        "author": "Novelist Pro",
+        "posted_date": "2023-09-13",
+        "author_img": "https://example.com/images/author3.jpg",
+        "reading_time": 15,
+        "hashtag": "#Writing #Fiction"
+      },
+      {
+        "id": 4,
+        "title": "Exploring Culinary Delights",
+        "cover_img": "https://i.ibb.co/xMrKrR6/Rectangle-1-1.png",
+        "author": "Foodie Guru",
+        "posted_date": "2023-09-12",
+        "author_img": "https://i.ibb.co/d52Cr6W/Ellipse-1-1.png",
+        "reading_time": 12,
+        "hashtag": "#Food #Cooking"
+      },
+      {
+        "id": 5,
+        "title": "Green Living: Sustainable Choices",
+        "cover_img": "https://i.ibb.co/T0V9F0C/Rectangle-1.png",
+        "author": "Eco Warrior",
+        "posted_date": "2023-09-11",
+        "author_img": "https://i.ibb.co/FxbJFg1/Ellipse-1.png",
+        "reading_time": 9,
+        "hashtag": "#Sustainability #Environment"
+      }
+              
+]
