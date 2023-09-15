@@ -5,7 +5,7 @@ import { FaBookmark } from 'react-icons/fa';
 
 const Blog = ({ blog, handleBookmarks, handleMarkAsRead }) => {
     
-    const {title, cover_img, hashtag,reading_time, author_img, author, posted_date} = blog;
+    const {id, title, cover_img, hashtag,reading_time, author_img, author, posted_date} = blog;
     
     return (
         <div className="border-2 m-10 p-5">
@@ -31,7 +31,7 @@ const Blog = ({ blog, handleBookmarks, handleMarkAsRead }) => {
             <div className="p-5">
             <h3 className="text-2xl font-bold  ">{title}</h3>
             <p>{hashtag}</p>
-            <a className="text-blue-700 cursor-pointer hover:underline" onClick={()=>handleMarkAsRead(reading_time)}>Mark as read</a>
+            <a className="text-blue-700 cursor-pointer hover:underline" onClick={()=>handleMarkAsRead(id, reading_time)}>Mark as read</a>
             </div>
         </div>
     );
